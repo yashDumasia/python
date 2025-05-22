@@ -1,2 +1,2 @@
-x = 100
-print(x)
+Name = "YASH DUMASIA"
+print(len(Name))
