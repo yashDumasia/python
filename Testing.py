@@ -1,4 +1,4 @@
 FIRST = "YASH"
 LAST = "DUMASIA"
-FULL = FIRST + " " + LAST
+FULL = f"{FIRST} {LAST}"
 print(FULL)
