@@ -1,11 +1,4 @@
-Name = "YASH DUMASIA"
-print(len(Name))
-print(Name[0])
-print(Name[1])
-print(Name[2])
-print(Name[3])
-print(Name[4])
-print(Name[0:4])
-print(Name[:4])
-print(Name[0:])
-print(Name[:])
+FIRST = "YASH"
+LAST = "DUMASIA"
+FULL = FIRST + " " + LAST
+print(FULL)
