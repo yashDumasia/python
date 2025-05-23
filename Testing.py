@@ -1,4 +1,0 @@
-FIRST = "YASH"
-LAST = "DUMASIA"
-FULL = f"{FIRST} {LAST}"
-print(FULL)
