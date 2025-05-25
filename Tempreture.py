@@ -1,8 +1,9 @@
 Tempreture = input("Tempreture : ")
 if int(Tempreture) >= 35:
-    print("It's worm.")
+    message = "It's worm."
 elif int(Tempreture) >= 20:
     print("It's nice.")
 else:
-    print("It's cold.")
+    message = "It's cold."
+print(message)
 print("Thanks")
