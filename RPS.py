@@ -12,6 +12,7 @@ while True:
         print("Your Chose Scissor✂️")
     else:
         print("Invalid Choice..!")
+        break
 
     if computer == "Rock🪨":
         print("Computer Chose Rock🪨")
@@ -31,4 +32,7 @@ while True:
     if Y == "Y":
         continue
     elif Y == "N":
+        break
+    else:
+        print ("Invalid Choice..!!")
         break
